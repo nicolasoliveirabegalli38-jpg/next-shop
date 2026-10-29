@@ -54,7 +54,12 @@ footer{text-align:center;padding:28px;color:#aaa;border-top:1px solid #292936}
   <p class="price">R$ 9,90</p>
   <a class="button" href="https://pay.kirvano.com/32297aa8-14ca-4c93-b29a-0b51896e1ebc" target="_blank" rel="noopener">Comprar agora</a>
 </div>
-</section>
+<div class="product">
+  <div class="cover">NOVO CURSO</div>
+  <h3>Curso Online</h3>
+  <p class="muted">Aprenda novas habilidades e desenvolva seu conhecimento no seu ritmo.</p>
+  <a class="button" href="https://pay.kirvano.com/r/4e383653-021a-4900-a003-ccd6054da536" target="_blank" rel="sponsored noopener">Conhecer curso</a>
+</div>
 <section>
 <h2>Sobre a Next Shop</h2>
 <p class="muted">Nossa missão é tornar o conhecimento digital mais acessível, com conteúdos para ajudar você a aprender e dar seus próximos passos.</p>
